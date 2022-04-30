@@ -5,4 +5,5 @@
 README_2.md
 teste-gitignore.txt
 .env
-pasta-que-nao-quero
+pasta-que-nao-que
+*.pem
